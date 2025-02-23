@@ -1,8 +1,8 @@
-# Command-Line-b=Basics
+# Command-Line-Basics
 
 This repository contains a demonstration of basic Linux commands for file and directory management 
 
-## Commands ussed
+## Commands used
 
 -'mkdir -p projects/week1 projects/week2' > Create directories
 
